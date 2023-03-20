@@ -1,0 +1,52 @@
+/* *{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+} */
+.project-wrapper{
+  border: 1px dashed lightgray;
+  padding: 2em;
+  border-radius: 1em;
+}
+
+.team-wrapper{
+  border: 1px dashed lightgray;
+  padding: 1em;
+  border-radius: 1em;
+}
+
+.ticket-wrapper{
+  border: 1px dashed lightgray;
+  padding: 1em;
+  border-radius: 1em;
+}
+
+.project-wrapper-update{
+  border: 1px dashed lightgray;
+  padding: 1em;
+  border-radius: 1em;
+}
+
+.comment-wrapper{
+  border: 1px dashed lightgray;
+  padding: 1em;
+  border-radius: 1em;
+}
+
+.comment-bubble{
+  background: #EEEEEE;
+  border-radius: 1em;
+  padding: 1em;
+  margin: 1em 0em;
+  width: 50%;
+}
+
+.navButton{
+  margin-top: 1em;
+  
+}
+
+.navButton h4{
+  margin-left: 1em;
+  margin-right: 1em;
+}
